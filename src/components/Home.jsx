@@ -7,7 +7,7 @@ function Home() {
         <div className='absolute top-0 bottom-0 left-0 right-0 bg-black opacity-50 z-5'></div>
         <div className='absolute top-0 bottom-0 left-0 right-0 z-6 flex justify-center items-center'>
             <div className=' w-[50%] min-w-[300px] min-h-[20vw] h-[70%] pl-10 pr-10 pt-10 pb-10 flex flex-col gap-7 justify-around items-start'>
-                <h1 className='text-white  text-4xl font-mono'>You got the travel plans,we got the <span className='text-blue-500'>travel vans.</span></h1>
+                <h1 className='text-white  text-4xl font-mono'>You got the travel plans,we got the <span className='text-orange-500'>travel vans.</span></h1>
                 <p className='text-white  '>Add adventures to your life by joining the #vanlife movement.Rent the perfect van to make your perfect road trip.</p>
                 <button className='bg-orange-500 py-3 text-white w-full h-14 rounded-lg'>Find your van</button>
             </div>
