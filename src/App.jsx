@@ -34,7 +34,7 @@ function App() {
           <Route path="/contacts" element={<Contacts />} />
         </Routes>
         <div className="w-full h-[7vh] bg-black rounded-bl-2xl rounded-br-2xl flex justify-center items-center">
-          <p className="text-slate-500 text-sm">&#169; 2022 #VANLIFE</p>
+          <p className="text-slate-500 text-sm">&#169; 2022 #VANLIFE </p>
         </div>
       </BrowserRouter>
     </>
