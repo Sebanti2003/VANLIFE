@@ -4,6 +4,7 @@ import "./App.css";
 import About from "./components/About";
 import Contacts from "./components/Contacts";
 import Home from "./components/Home";
+import { createServer } from "miragejs"
 
 function App() {
   return (
