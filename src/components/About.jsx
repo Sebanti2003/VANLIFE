@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
   return (
    <>
-   <div className='w-full h-[90vh] pb-2 overflow-x-hidden
+   <div className='w-full h-[85vh] pb-2 overflow-x-hidden
     bg-[#FDEDEC] flex flex-col gap-4  items-center mb-0'>
     <img src="https://www.hilltopviewsonline.com/wp-content/uploads/2021/11/van-life-unsplash-900x600.jpeg" alt="" className='mt-2 w-[38vw] min-w-[350px] rounded-xl  h-[45vw] max-h-[400px] mx-auto md:w-[70vw] lg:h-[40vw]' />
     <h1 className=' pl-4 pr-4 text-xl font-extrabold'>Dont Squeeze in a Sedan when you could relax in a van.</h1>
